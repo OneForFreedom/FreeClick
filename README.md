@@ -1,7 +1,7 @@
 # FreeClick
 My first ever mouse - That I made on my own!
 
-Onshape URL: [Link](https://cad.onshape.com/documents/9e4e7cf224215a33cf5cf04f/w/c7eaa5247fce160ec5cf33b7/e/d4d494f7986b2d038b800d4e?renderMode=0&uiState=6886c2827add7659d1458f80)
+Onshape URL: [Link](https://cad.onshape.com/documents/9e4e7cf224215a33cf5cf04f/w/c7eaa5247fce160ec5cf33b7/e/d4d494f7986b2d038b800d4e?renderMode=0&uiState=6886c2827add7659d1458f80) - Just reload it til it works.
 
 ![Mouse](Mouse.png)
 

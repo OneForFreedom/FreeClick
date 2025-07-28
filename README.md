@@ -15,6 +15,6 @@ The FreeClick FULL.STEP contains everything required for the mouse itself.
 
 FreeClick CASE.STEP only shows you the case to help the 3d printer guy to print the parts easier.
 
-The Mouse.png is pretty self explanatory, its litirally up there! ^^
+The Mouse.png is pretty self explanatory, its literally up there! ^^
 
 And The README.md.. well, You just finished reading it!

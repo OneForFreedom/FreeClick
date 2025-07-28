@@ -1,6 +1,8 @@
 # FreeClick
 My first ever mouse - That I made on my own!
 
+![Mouse](Mouse.png)
+
 
 Idk if a readme is necessary, but to hell with it! Lets make one anyway!
 

@@ -1,5 +1,5 @@
 # FreeClick
-My first ever mouse - That I made on my own!
+This is my spin on the wireless mouse components kit. The case is completely built from scratch. I Made this on onshape and I am really proud on how this turned out
 
 Onshape URL: [Link](https://cad.onshape.com/documents/9e4e7cf224215a33cf5cf04f/w/c7eaa5247fce160ec5cf33b7/e/d4d494f7986b2d038b800d4e?renderMode=0&uiState=6886c2827add7659d1458f80) 
 
